@@ -1,0 +1,4 @@
+Key (hex): 25c1ea35464d0d31fcebc869800ea6fc
+IV  (hex): cbac83bb30974928f71048dba98d3e49
+Corrupted byte index: 29 (30th byte)
+Corrupted bit position: 0
