@@ -71,16 +71,40 @@ print(map2)
 
 ```
 === Cipher-1 Decrypted ===
-IN A SUBSTITUTION AND, IN MORE WAYS, WILLING THAT THIS INSTRUCTION TO MAN--JUST BECAUSE, BECAUSE OF HIS KNOWN UNDERSTANDING OF THE PRINCIPLES OF PSYCHOPHYSIOLOGY AND OF HIS MATHEMATICAL KNOWLEDGE INTO ANY AREAS. IT WAS FOLLOWING TO WHAT THAT IN ANYTHING HAPPENING TO SOUND MARSHAL BEFORE THE MATHEMATICAL OF THE LIVING WORLD BE CONSIDERED WORST OUT--AND YOU SHOUT IT PROCESSED, AND YOU CONDENSATION THE STRUCTURES--THERE WOULD AT LEAST REMAIN ONE GOOD MIND THAT WOULD CONTAIN THE RESEARCH
+in a particular and, in each case, different way, these four were indispensable to himyugo amaryl, because of his quick understanding of the principles of psychohistory and of his imaginative probings into new areas. it was comforting to know that if anything
+happened to seldon himself before the mathematics of the field could be completely worked outand how slowly it proceeded, and how mountainous the obstacles--there would at least remain one
+good mind that would continue the research
 
-Mapping:
-{'i': 'e', 'c': 't', 'f': 'a', 'p': 'i', 'd': 'o', 'e': 'h', 'a': 's', 'r': 'n', 'k': 'r', 'g': 'd', 'u': 'f', 't': 'w', 'q': 'c', 'n': 'u', 'o': 'm', 'v': 'l', 'm': 'g', 'h': 'b', 'x': 'p', 'w': 'j', 'l': 'q', 'j': 'v', 'b': 'k'}
+
 
 === Cipher-2 Decrypted ===
-THERE WAS LITTLE BOYS AND LITTLE GIRLFRIENDS, AND THEY ALL KNEW THE DANGER OF THE RADIO FOR DOING MESSAGES, THAT WOULD NOT REMEMBERED YOUNGESTERS AND PAINFULNESS SECRETS. THE BOYS HE THEY REMAINED AWAY FROM NOT DANGER THEY HAD LEARNED A LITTLE LEARNED, AND IT WAS CHRISTMAS COMING, WHEN THE BOY FROM SCHOOL WENT, THAT THE WILL BE ALL AND WAS FULL OF ENOUGH STUFFED WITH ENOUGH. AND IF THAT WAS NOT ENOUGH FOR SOME, THERE WAS ALSO NOT REMAINED BEHIND TO MOVIE BE. TIME THEN IN, AND IT LOOKED TO TELL TICKLED USUAL IN MY. RALPHIE. BE ENOUGH HE WAS WITH THE SAME AS BE FIBER. BE ENOUGH-ONE THING ALL TO WILL NOT TELL-YOUNGEST; AND PHYSICIAN WOULD TELL TELL ALL ACROSS THE MOVIE. THERE THERE KNOW THAT WILL (APPLICABLE) PUNCTUATION MARKUP TO TELL AS (PUNCTUATION) WILL BE. IT WILL TELL TO ALL A BOYS FOR, THING BOYS. IT ISN'T NERVOUS, AND CRIMINAL WILL LEAD OF IT! AND TO FOR CRIMINAL THEY NOT LEAD; AND AS MY. RALPHIE WAS REMEMBERED WITH NOT THING, THAT PUNCTUATION THERE WILL TO FOR PEOPLE NOT NOT BOYS AND NOT LADDER. HE REMEMBERED IN LITTLEBOYS REMEMBERED WITH NOT BOYS (ADULTS, OF COURSE, THE RADIO RALPHIES), AND HE THEY WANT YOUNGESTED YOUNGESTED OWNED THE LADDER OF FOOD AND PUNCTUATION SOMEONES. AND HE THEY NO LEARNED, ENOUGH KNOW OF NOT MARKUP LEARNED ALL TO LOST UP. THE BOYS OF THESE, AND THERE'S SECRET, WAS MARKUP FROM RALPHIE. WHEN THERE WAS ENOUGH-ONE HE YOUNGESTED FROM AS NOT WILL, AND REMAINED NOT TO TELL BE ALL AND; AND THE LADDER OF THE RADIO- RALPHIES THERE WILL BE YOUNGESTED. THERE AND FROM ALL TO TELL THE SAME RALPHIE, DECEMBER 22ND. FOR THEY ALL LEAD AND TELL THERE, FROM WE BOY, BOYS THERE ONE YES; AND WHEN THERE WILL WILL BE RALPHIE-YOUNGESTED LEARNED. BE THAT TIME FROM WILL OWN NOT ENOUGH, AS THE LADDER WILL THE WILL BE ENOUGH ENOUGH AND LEAD OF ALL BE WILL-WILL
+bilbo was very rich and very peculiar, and had been the wonder of the shire for
+sixty years, ever since his remarkable disappearance and unexpected return. the
+riches he had brought back from his travels had now become a local legend, and it was
+popularly believed, whatever the old folk might say, that the hill at bag end was full of
+tunnels stuffed with treasure. and if that was not enough for fame, there was also his
+prolonged vigour to marvel at. time wore on, but it seemed to have little effect on
+mr. baggins. at ninety he was much the same as at fifty. at ninety-nine they began to
+call him well-preserved; but unchanged would have been nearer the mark. there were some
+that shook their heads and thought this was too much of a good thing; it seemed unfair that
+anyone should possess (apparently) perpetual youth as well as (reputedly)
+inexhaustible wealth. it will have to be paid for, they said. it isn't natural, and trouble
+will come of it! but so far trouble had not come; and as mr. baggins was generous with
+his money, most people were willing to forgive him his oddities and his good fortune. he
 
-Mapping:
-{'e': 'e', 'u': 't', 'h': 'a', 'o': 'i', 'l': 'h', 'k': 'w', 'c': 'd', 'z': 's', 'm': 'u', 't': 'l', 'v': 'r', 's': 'f', 'd': 'c', 'n': 'm', 'a': 'p', 'q': 'y', 'j': 'g', 'p': 'b', 'g': 'k', 'y': 'n', 'w': 'o', 'r': 'v', 'f': 'x'}
+remained on visiting terms with his relatives (except, of course, the sackville-
+bagginses), and he had many devoted admirers among the hobbits of poor and
+
+unimportant families. but he had no close friends, until some of his younger cousins
+began to grow up. the eldest of these, and bilbo's favourite, was young frodo baggins.
+when bilbo was ninety-nine he adopted frodo as his heir, and brought him to live at bag
+end; and the hopes of the sackville- bagginses were finally dashed. bilbo and frodo
+happened to have the same birthday, september 22nd. you had better come and live here,
+frodo my lad, said bilbo one day; and then we can celebrate our birthday-parties
+comfortably together. at that time frodo was still in his tweens, as the hobbits called the
+irresponsible twenties between childhood and coming of age at thirty-three
+
+
 ```
 
 ### Which input was easier to break?
